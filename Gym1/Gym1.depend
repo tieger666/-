@@ -1,0 +1,274 @@
+# depslib dependency file v1.0
+1608548981 source:e:\download\gym1\main.cpp
+	<iostream>
+	"user.h"
+	"Clubstaff.h"
+	"basicmember.h"
+	"fitnesscoach.h"
+	"manager.h"
+	"salesmanager.h"
+	"salesperson.h"
+	"trainmanager.h"
+	"vipmember.h"
+
+1608608153 e:\download\gym1\user.h
+	<iostream>
+	"Clubstaff.h"
+	"basicmember.h"
+	"fitnesscoach.h"
+	"manager.h"
+	"salesmanager.h"
+	"salesperson.h"
+	"trainmanager.h"
+	"vipmember.h"
+	<string>
+	<fstream>
+
+1608608899 source:e:\download\gym1\user.cpp
+	"user.h"
+
+1608609036 source:e:\download\gym1\src\clubstaff.cpp
+	"Clubstaff.h"
+
+1608566128 e:\download\gym1\\clubstaff.h
+	<iostream>
+	<string>
+
+1608361503 source:e:\download\gym1\basicmember.cpp
+	"basicmember.h"
+
+1608361558 e:\download\gym1\basicmember.h
+	<iostream>
+	<string>
+	"Clubstaff.h"
+
+1608566128 e:\download\gym1\clubstaff.h
+	<iostream>
+	<string>
+
+1608361503 source:e:\download\gym1\fitnesscoach.cpp
+	"fitnesscoach.h"
+
+1608361558 e:\download\gym1\fitnesscoach.h
+	<iostream>
+	<string>
+	"Clubstaff.h"
+
+1608361558 e:\download\gym1\manager.h
+	<iostream>
+	<string>
+	"Clubstaff.h"
+
+1608361558 e:\download\gym1\salesmanager.h
+	<iostream>
+	<string>
+	"Clubstaff.h"
+
+1608361558 e:\download\gym1\salesperson.h
+	<iostream>
+	<string>
+	"Clubstaff.h"
+
+1608361558 e:\download\gym1\trainmanager.h
+	<iostream>
+	<string>
+	"Clubstaff.h"
+
+1608361558 e:\download\gym1\vipmember.h
+	<iostream>
+	<string>
+	"Clubstaff.h"
+
+1608361503 source:e:\download\gym1\manager.cpp
+	"manager.h"
+
+1608361503 source:e:\download\gym1\salesmanager.cpp
+	"salesmanager.h"
+
+1608361503 source:e:\download\gym1\salesperson.cpp
+	"salesperson.h"
+
+1608361502 source:e:\download\gym1\vipmember.cpp
+	"vipmember.h"
+
+1608361886 source:e:\download\gym1\trainmanager.cpp
+	"trainmanager.h"
+
+1608361503 source:c:\users\lenovo\desktop\gym1\basicmember.cpp
+	"basicmember.h"
+
+1608361558 c:\users\lenovo\desktop\gym1\basicmember.h
+	<iostream>
+	<string>
+	"Clubstaff.h"
+
+1608566128 c:\users\lenovo\desktop\gym1\clubstaff.h
+	<iostream>
+	<string>
+
+1608361503 source:c:\users\lenovo\desktop\gym1\fitnesscoach.cpp
+	"fitnesscoach.h"
+
+1608361558 c:\users\lenovo\desktop\gym1\fitnesscoach.h
+	<iostream>
+	<string>
+	"Clubstaff.h"
+
+1608361503 source:c:\users\lenovo\desktop\gym1\manager.cpp
+	"manager.h"
+
+1608361558 c:\users\lenovo\desktop\gym1\manager.h
+	<iostream>
+	<string>
+	"Clubstaff.h"
+
+1608361503 source:c:\users\lenovo\desktop\gym1\salesmanager.cpp
+	"salesmanager.h"
+
+1608361558 c:\users\lenovo\desktop\gym1\salesmanager.h
+	<iostream>
+	<string>
+	"Clubstaff.h"
+
+1608361503 source:c:\users\lenovo\desktop\gym1\salesperson.cpp
+	"salesperson.h"
+
+1608361558 c:\users\lenovo\desktop\gym1\salesperson.h
+	<iostream>
+	<string>
+	"Clubstaff.h"
+
+1608646484 source:c:\users\lenovo\desktop\gym1\src\clubstaff.cpp
+	"Clubstaff.h"
+
+1608566128 c:\users\lenovo\desktop\gym1\\clubstaff.h
+	<iostream>
+	<string>
+
+1608361886 source:c:\users\lenovo\desktop\gym1\trainmanager.cpp
+	"trainmanager.h"
+
+1608361558 c:\users\lenovo\desktop\gym1\trainmanager.h
+	<iostream>
+	<string>
+	"Clubstaff.h"
+
+1608608899 source:c:\users\lenovo\desktop\gym1\user.cpp
+	"user.h"
+
+1608729631 c:\users\lenovo\desktop\gym1\user.h
+	<iostream>
+	"Clubstaff.h"
+	"basicmember.h"
+	"fitnesscoach.h"
+	"manager.h"
+	"salesmanager.h"
+	"salesperson.h"
+	"trainmanager.h"
+	"vipmember.h"
+	<string>
+	<fstream>
+
+1608361558 c:\users\lenovo\desktop\gym1\vipmember.h
+	<iostream>
+	<string>
+	"Clubstaff.h"
+
+1608361502 source:c:\users\lenovo\desktop\gym1\vipmember.cpp
+	"vipmember.h"
+
+1608361503 source:c:\users\lenovo\desktop\202012031—王泽权\gym1\basicmember.cpp
+	"basicmember.h"
+
+1608361558 c:\users\lenovo\desktop\202012031—王泽权\gym1\basicmember.h
+	<iostream>
+	<string>
+	"Clubstaff.h"
+
+1608566128 c:\users\lenovo\desktop\202012031—王泽权\gym1\clubstaff.h
+	<iostream>
+	<string>
+
+1608361503 source:c:\users\lenovo\desktop\202012031—王泽权\gym1\fitnesscoach.cpp
+	"fitnesscoach.h"
+
+1608361558 c:\users\lenovo\desktop\202012031—王泽权\gym1\fitnesscoach.h
+	<iostream>
+	<string>
+	"Clubstaff.h"
+
+1608729631 source:c:\users\lenovo\desktop\202012031—王泽权\gym1\main.cpp
+	<iostream>
+	"user.h"
+	"Clubstaff.h"
+	"basicmember.h"
+	"fitnesscoach.h"
+	"manager.h"
+	"salesmanager.h"
+	"salesperson.h"
+	"trainmanager.h"
+	"vipmember.h"
+
+1608896502 c:\users\lenovo\desktop\202012031—王泽权\gym1\user.h
+	<iostream>
+	"Clubstaff.h"
+	"basicmember.h"
+	"fitnesscoach.h"
+	"manager.h"
+	"salesmanager.h"
+	"salesperson.h"
+	"trainmanager.h"
+	"vipmember.h"
+	<string>
+	<fstream>
+
+1608361558 c:\users\lenovo\desktop\202012031—王泽权\gym1\manager.h
+	<iostream>
+	<string>
+	"Clubstaff.h"
+
+1608361558 c:\users\lenovo\desktop\202012031—王泽权\gym1\salesmanager.h
+	<iostream>
+	<string>
+	"Clubstaff.h"
+
+1608361558 c:\users\lenovo\desktop\202012031—王泽权\gym1\salesperson.h
+	<iostream>
+	<string>
+	"Clubstaff.h"
+
+1608361558 c:\users\lenovo\desktop\202012031—王泽权\gym1\trainmanager.h
+	<iostream>
+	<string>
+	"Clubstaff.h"
+
+1608361558 c:\users\lenovo\desktop\202012031—王泽权\gym1\vipmember.h
+	<iostream>
+	<string>
+	"Clubstaff.h"
+
+1608361503 source:c:\users\lenovo\desktop\202012031—王泽权\gym1\manager.cpp
+	"manager.h"
+
+1608361503 source:c:\users\lenovo\desktop\202012031—王泽权\gym1\salesmanager.cpp
+	"salesmanager.h"
+
+1608361503 source:c:\users\lenovo\desktop\202012031—王泽权\gym1\salesperson.cpp
+	"salesperson.h"
+
+1608646484 source:c:\users\lenovo\desktop\202012031—王泽权\gym1\src\clubstaff.cpp
+	"Clubstaff.h"
+
+1608566128 c:\users\lenovo\desktop\202012031—王泽权\gym1\\clubstaff.h
+	<iostream>
+	<string>
+
+1608361886 source:c:\users\lenovo\desktop\202012031—王泽权\gym1\trainmanager.cpp
+	"trainmanager.h"
+
+1608608899 source:c:\users\lenovo\desktop\202012031—王泽权\gym1\user.cpp
+	"user.h"
+
+1608361502 source:c:\users\lenovo\desktop\202012031—王泽权\gym1\vipmember.cpp
+	"vipmember.h"
+

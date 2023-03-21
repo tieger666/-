@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Gym1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Gym1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="./" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Gym1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="./" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Clubstaff.h" />
+		<Unit filename="basicmember.cpp" />
+		<Unit filename="basicmember.h" />
+		<Unit filename="fitnesscoach.cpp" />
+		<Unit filename="fitnesscoach.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="manager.cpp" />
+		<Unit filename="manager.h" />
+		<Unit filename="salesmanager.cpp" />
+		<Unit filename="salesmanager.h" />
+		<Unit filename="salesperson.cpp" />
+		<Unit filename="salesperson.h" />
+		<Unit filename="src/Clubstaff.cpp" />
+		<Unit filename="trainmanager.cpp" />
+		<Unit filename="trainmanager.h" />
+		<Unit filename="user.cpp" />
+		<Unit filename="user.h" />
+		<Unit filename="vipmember.cpp" />
+		<Unit filename="vipmember.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
